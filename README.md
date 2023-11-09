@@ -4,11 +4,10 @@ Le projet "BACKTRACKING" est un script R conçu pour résoudre le problème clas
 
 ## Environnement de développement
 ### Outils et bibliothèques
-- **R**: Le script a été écrit pour être exécuté dans l'environnement de programmation R.
-- **RStudio**: Un environnement de développement intégré (IDE) recommandé pour exécuter le script.
-- **ggplot2**: Une bibliothèque R pour la création de visualisations de données.
-- **reshape2**: Un package R pour restructurer et agencer les données, utilisé pour préparer les données pour la visualisation.
-
+- **[R](https://www.r-project.org/other-docs.html)**: Le script a été écrit pour être exécuté dans l'environnement de programmation R.
+- **[RStudio](https://www.r-studio.com/fr/Unformat_Help/)**: Un environnement de développement intégré (IDE) recommandé pour exécuter le script.
+- **[ggplot2](https://ggplot2.tidyverse.org/reference/)**: Une bibliothèque R pour la création de visualisations de données.
+- **[reshape2](https://www.rdocumentation.org/packages/reshape2/versions/1.4.4)**: Un package R pour restructurer et agencer les données, utilisé pour préparer les données pour la visualisation.
 ### Installation
 Assurez-vous que R et RStudio sont installés sur votre système. Vous pouvez installer les bibliothèques nécessaires en exécutant les commandes suivantes dans la console R :
 ```r
