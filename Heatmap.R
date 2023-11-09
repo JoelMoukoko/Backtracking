@@ -4,6 +4,9 @@ library(ggplot2)
 library(reshape2)
 
 place_queens <- function(X, Y) {
+  if (X <= 0 || Y <= 0) {
+    stop("Les dimensions de l'échiquier doivent être des nombres positifs.")
+  }
   solutions <- 0
   attaques <- matrix(0, nrow = X, ncol = Y)
   
