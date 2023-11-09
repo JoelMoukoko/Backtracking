@@ -41,4 +41,5 @@ place_queens <- function(X, Y) {
 }
 
 # Exemple d'usage:
-place_queens(10, 10)
+solutions <- place_queens(10, 10)
+print(solutions)
